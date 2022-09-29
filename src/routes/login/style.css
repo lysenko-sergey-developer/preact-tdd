@@ -1,0 +1,16 @@
+.wrapper {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.input {
+  padding: 2px;
+  margin: 6px 0;
+}
