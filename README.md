@@ -1,5 +1,7 @@
 # TDD playground with Preact and Preact-testing-lib
 
+Insipred by [this video](https://www.youtube.com/watch?v=Flo268xRpV0)
+
 ## CLI Commands
 *   `npm install`: Installs dependencies
 
