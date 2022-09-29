@@ -1,4 +1,4 @@
-# preact-test-playground
+# TDD playground with Preact and Preact-testing-lib
 
 ## CLI Commands
 *   `npm install`: Installs dependencies
