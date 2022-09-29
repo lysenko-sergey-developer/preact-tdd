@@ -1,5 +1,5 @@
 import { h } from 'preact';
-import Header from '../src/components/header';
+import Header from './';
 import { render, cleanup } from '@testing-library/preact'
 
 afterEach(cleanup);
